@@ -1,6 +1,6 @@
 <div align="center" >
 
-# 말랑(Mallang)
+# 말vs랑(Mallang)
 
 ### 지도 기반 문해력 증진 어플리케이션
 
@@ -15,13 +15,16 @@
 - 학습 퀴즈를 통해서 문해력을 학습해보세요.
 - 학습한 단어와 틀린 단어는 단어장과 오답노트에 기록됩니다.
 - 본인의 문해력으로 점령지들을 점령하고, 팀에 승리에 기여해보세요.
+  
+## 🗓 프로젝트 진행 기간
 
+2024.07.01(월) ~ 2024.08.15(금) (약 7주)
 
 ## 👨‍👩‍👧‍👦 팀원 소개
 
 
 ### Backend
-|[김정인](https://github.com/IanToo2) | [나혜림](https://github.com/HyerimNa) | [변서원](https://github.com/byunseowon) 
+|[김정인(팀장)](https://github.com/IanToo2) | [나혜림](https://github.com/HyerimNa) | [변서원](https://github.com/byunseowon) 
 |:--------:|:---------:|:---------:|
 | ![](https://github.com/IanToo2.png) | ![](https://github.com/HyerimNa.png) | ![](https://github.com/byunseowon.png) |
 
@@ -93,12 +96,23 @@
 - ![Compose Ui Test](https://img.shields.io/badge/Compose%20Ui%20Test-03A9F4?style=flat-square&logo=android&logoColor=white) `Compose Ui Test`
 
 ### BE
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) `Java(21)` 
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) `Java(21)` 
 - ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) `Spring Boot(3.2.7)` 
 - ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) `MariaDB(11.4.2)` 
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) `Docker(27.0.3)` 
 - ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) `Jenkins(2.452.3)`
+- ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white) `AWS EC2`
+- ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) `Nginx`
 
+### TOOL
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) `Git`
+- ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) `GitLab`
+- ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) `Notion`
+- ![Mattermost](https://img.shields.io/badge/Mattermost-0072C6?style=flat-square&logo=mattermost&logoColor=white) `Mattermost`
+- ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) `Jira`
+- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) `Figma`
+
+![image](https://github.com/user-attachments/assets/71a6eb33-ac49-4588-bfbe-e03b905e03c2)
 
 
 ## 📑 산출물
