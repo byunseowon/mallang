@@ -20,19 +20,6 @@
 
 2024.07.01(월) ~ 2024.08.15(금) (약 7주)
 
-## 👨‍👩‍👧‍👦 팀원 소개
-
-
-### Backend
-|[김정인(팀장)](https://github.com/IanToo2) | [나혜림](https://github.com/HyerimNa) | [변서원](https://github.com/byunseowon) 
-|:--------:|:---------:|:---------:|
-| ![](https://github.com/IanToo2.png) | ![](https://github.com/HyerimNa.png) | ![](https://github.com/byunseowon.png) |
-
-### Android
-
-| [강승우](https://github.com/pooya98) | [김성수](https://github.com/DrSkele) | [이나경](https://github.com/nakyung128) |[이재한](https://github.com/jaehan4707) |
-|:---------:|:---------:|:---------:|:---------:|
-| ![](https://github.com/pooya98.png) | ![](https://github.com/DrSkele.png) | ![](https://github.com/nakyung128.png) | ![](https://github.com/jaehan4707.png) |
 
 
 ## ⚒️ 기능 소개
@@ -113,6 +100,19 @@
 - ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) `Figma`
 
 ![image](https://github.com/user-attachments/assets/71a6eb33-ac49-4588-bfbe-e03b905e03c2)
+## 👨‍👩‍👧‍👦 팀원 소개
+
+
+### Backend
+|[김정인(팀장)](https://github.com/IanToo2) | [나혜림](https://github.com/HyerimNa) | [변서원](https://github.com/byunseowon) 
+|:--------:|:---------:|:---------:|
+| ![](https://github.com/IanToo2.png) | ![](https://github.com/HyerimNa.png) | ![](https://github.com/byunseowon.png) |
+
+### Android
+
+| [강승우](https://github.com/pooya98) | [김성수](https://github.com/DrSkele) | [이나경](https://github.com/nakyung128) |[이재한](https://github.com/jaehan4707) |
+|:---------:|:---------:|:---------:|:---------:|
+| ![](https://github.com/pooya98.png) | ![](https://github.com/DrSkele.png) | ![](https://github.com/nakyung128.png) | ![](https://github.com/jaehan4707.png) |
 
 
 ## 📑 산출물
